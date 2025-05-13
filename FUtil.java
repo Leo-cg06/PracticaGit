@@ -5,6 +5,7 @@ import java.io.File;
 public class FUtil {
     /**
  * Verifica si un archivo existe.
+ * @author Leo
  * @param filename Ruta del archivo
  * @return true si existe
  * @throws IllegalArgumentException si filename está vacío

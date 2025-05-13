@@ -6,7 +6,7 @@ public class Applicacion {
             "index.html",
             "noexiste.",
             "index_copia.html",
-            "  "
+            "   "
 
         };
 
