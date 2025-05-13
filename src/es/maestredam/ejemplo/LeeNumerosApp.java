@@ -7,11 +7,9 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class LeeNumerosApp {
-	
-
-
 	public static void main(String[] args) {
 		
+
 		
 		final String FICHERO = "numeros.dat";
 
@@ -39,8 +37,6 @@ public class LeeNumerosApp {
 			System.out.println("ERROR E/S: "+ioe);
 		}
 		
-		
-		
-		
+	
 	}
 }
